@@ -1,0 +1,35 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.abypractice.tasks"
+        },
+        "jhipsterVersion": "5.8.1",
+        "applicationType": "monolith",
+        "baseName": "aymenTasks",
+        "packageName": "com.abypractice.tasks",
+        "packageFolder": "com/abypractice/tasks",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "hazelcast",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Memory",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "NTA0YTNkYTgzODA1N2I1MmVkMmZjNGJiNmZhZDljYzQ4NmFlMzFmNDNiMzM5ZGYzMTUzNmYwNTZiYTNjMWVmZTE5OGM2NzU3M2U4NDg5YTk4ZTZjNDE0YTcxNWE3NGJmZTUxYjMwZTkyYTM0OTU1OTQxYjc2M2FhMjIzZWZiN2E=",
+        "clientFramework": "angularX",
+        "useSass": false,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}
